@@ -1,6 +1,6 @@
 # 👋 Hola, soy Luis Leonidas Fernández
 
-🧑‍💻 Flutter & Full-Stack Developer · 🚓 Policía de profesión · 🇦🇷 Argentina
+🧑‍💻 Flutter & Full-Stack Developer · 🇦🇷 Argentina
 
 ---
 
