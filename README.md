@@ -30,10 +30,13 @@ I am currently exploring new opportunities in software automation and applied ar
 
 ---
 
+
+
 ## 🧰 Tech Stack
 
 
 📱 Mobile & Frontend
+
 
 <img width="102" height="28" alt="image" src="https://github.com/user-attachments/assets/4ff4c496-55bc-46fd-bb8f-f1f712272ce3" />
 <img width="79" height="28" alt="image" src="https://github.com/user-attachments/assets/8efebbae-2ab4-4f75-a8f7-e8c1b3de544a" />
@@ -42,6 +45,7 @@ I am currently exploring new opportunities in software automation and applied ar
 
 
 🖥️ Backend & APIs
+
 
 <img width="101" height="28" alt="image" src="https://github.com/user-attachments/assets/0a3a880c-4d3c-42c9-92b4-7264a716869e" />
 <img width="123" height="28" alt="image" src="https://github.com/user-attachments/assets/a7a03405-3936-4540-a63e-b68c939737ff" />
@@ -75,6 +79,8 @@ I am currently exploring new opportunities in software automation and applied ar
 
 
 ---
+
+
 
 
 🧠 AI & Automation Skills
@@ -115,6 +121,9 @@ Optimización de costos de inferencia y cold-start
 > Web-based admin system for public agencies with authentication, JWT security, status filters, and control panel.
 
 ---
+
+
+
 
 ## 📈 GitHub Stats
 
