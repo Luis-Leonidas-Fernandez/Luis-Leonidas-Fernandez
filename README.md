@@ -125,23 +125,22 @@ Optimización de costos de inferencia y cold-start
 
 
 
-## 📈 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Luis-Leonidas-Fernandez&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true"
-  height="170"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Luis-Leonidas-Fernandez&theme=tokyonight&hide_border=false" />
 
-<img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luis-Leonidas-Fernandez&layout=compact&theme=tokyonight"
-  height="170"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Luis-Leonidas-Fernandez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Leonidas-Fernandez&layout=compact&theme=tokyonight" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Luis-Leonidas-Fernandez&theme=tokyonight&no-frame=true&margin-w=5" />
 
 </div>
 
-> ⚠️ Some private work (Node.js APIs, Flutter apps, and AI projects) may not appear in GitHub stats.
+> 📝 Some contributions remain private (AI automation systems, LLM deployments, backend microservices, and client apps).
+
 
 
 
