@@ -6,11 +6,14 @@
 
 
 ---
+
 🚀 About Me
 
-I'm a Full-Stack & Flutter Developer with over 2.5 years of experience building real-time mobile apps, backend services, and automation systems. I also have 2+ years specializing in Node.js, delivering production-ready software as a freelancer.
-
+I'm a Full-Stack & Flutter Developer with over 2.5 years of experience building real-time mobile apps, backend services, and automation systems.
+I also have 2+ years specializing in Node.js, delivering production-ready software as a freelancer.
 I’ve built complete end-to-end ecosystems, including a full Uber-style mobility platform consisting of:
+
+
 
 🚗 User App (Flutter) — real-time tracking, Mapbox routing, dynamic pricing, cronómetro, notifications
 
