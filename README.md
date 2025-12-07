@@ -12,7 +12,7 @@ I also have **2+ years specializing in Node.js**, delivering production-ready so
 
 I’ve built complete end-to-end ecosystems, including a full **Uber-style mobility platform** consisting of:
 
-- 🚗 **User App (Flutter)** — real-time tracking, Mapbox routing, dynamic pricing, cronómetro, notifications  
+- 🚗 **User App (Flutter)** — real-time tracking, Mapbox routing, dynamic pricing, stopwatch, notifications  
 - 🚕 **Driver App (Flutter)** — background location, trip assignment, pricing  
 - 🖥️ **Admin Web Panel** — dashboards, JWT auth, trip management  
 - 🧩 **Backend (Node.js / MVC)** — sockets, microservices, driver assignment engine  
