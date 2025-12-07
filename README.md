@@ -6,9 +6,27 @@
 
 ## 🚀 About Me
 
-I'm a software developer with over 2.5 years of experience building mobile and web applications. I specialize in Uber-style ride apps and uShip-style logistics platforms, using Node.js and MongoDB for the backend, Flutter for the frontend, and deployment on VPS (DigitalOcean).
+I'm a software developer with more than 2.5 years of experience building mobile and web applications.
+I specialize in creating Uber-style ride-sharing systems and uShip-style logistics platforms, using:
 
-Currently, I'm scaling my projects to an international level while exploring new business opportunities.
+Flutter for mobile apps
+
+Node.js + MongoDB for backend services (over 2 years of backend experience)
+
+DigitalOcean VPS for deployment and infrastructure
+
+For the past 4 months, I’ve also been working on:
+
+AI-powered automations
+
+RAG pipelines
+
+Deployment of open-source and commercial LLMs
+
+Building internal AI tools and assistants for business workflows
+
+
+I am currently exploring new opportunities in software automation and applied artificial intelligence.
 
 ---
 
