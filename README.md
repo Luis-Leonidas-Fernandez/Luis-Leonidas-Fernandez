@@ -129,13 +129,20 @@ Optimización de costos de inferencia y cold-start
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis-Leonidas-Fernandez&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true)
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Luis-Leonidas-Fernandez&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true"
+  height="170"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Leonidas-Fernandez&layout=compact&theme=tokyonight)
+<img 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Luis-Leonidas-Fernandez&layout=compact&theme=tokyonight"
+  height="170"
+/>
 
 </div>
 
 > ⚠️ Some private work (Node.js APIs, Flutter apps, and AI projects) may not appear in GitHub stats.
+
 
 
 
