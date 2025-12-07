@@ -32,16 +32,78 @@ I am currently exploring new opportunities in software automation and applied ar
 
 ## 🧰 Tech Stack
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Mapbox](https://img.shields.io/badge/Mapbox-2A2A2A?style=for-the-badge&logo=mapbox&logoColor=white)
+
+📱 Mobile & Frontend
+
+<img width="102" height="28" alt="image" src="https://github.com/user-attachments/assets/4ff4c496-55bc-46fd-bb8f-f1f712272ce3" />
+<img width="79" height="28" alt="image" src="https://github.com/user-attachments/assets/8efebbae-2ab4-4f75-a8f7-e8c1b3de544a" />
+<img width="100" height="28" alt="image" src="https://github.com/user-attachments/assets/e4ad5c25-de44-45e0-9631-9e1884497268" />
+
+
+
+🖥️ Backend & APIs
+
+<img width="101" height="28" alt="image" src="https://github.com/user-attachments/assets/0a3a880c-4d3c-42c9-92b4-7264a716869e" />
+<img width="123" height="28" alt="image" src="https://github.com/user-attachments/assets/a7a03405-3936-4540-a63e-b68c939737ff" />
+<img width="111" height="28" alt="image" src="https://github.com/user-attachments/assets/50632e6d-399e-4f01-b2be-367dd3a0aceb" />
+
+
+🤖 Artificial Intelligence & Automation
+
+
+![Python](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Deployment-6C38FF?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4A4AFF?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F4F?style=for-the-badge&logo=qdrant&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_ASR-000000?style=for-the-badge&logo=openai&logoColor=white)
+![RunPod](https://img.shields.io/badge/RunPod_GPU-FFB000?style=for-the-badge&logo=nvidia&logoColor=black)
+
+
+
+
+⚙️ DevOps & Infrastructure
+
+
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean_VPS-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Certbot](https://img.shields.io/badge/Certbot_SSL-2D3748?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux Server Admin](https://img.shields.io/badge/Linux_Server_Admin-333333?style=for-the-badge&logo=linux&logoColor=white)
+
+
+
 
 ---
 
-## 📱 Featured Projects
+
+🧠 AI & Automation Skills
+
+Diseño e implementación de sistemas RAG para empresas
+
+Creación de pipelines de embeddings con Qdrant
+
+Desarrollo y despliegue de LLMs open-source (Qwen, Llama, GPT-OSS)
+
+Integración de vLLM + Docker + RunPod
+
+Automatizaciones de procesos con IA (email, WhatsApp, clasificación de datos)
+
+Implementación de ASR con Whisper para transcripciones y bots de voz
+
+Construcción de API gateways administrativos para IA
+
+Arquitecturas híbridas: RAG + LLMs + microservicios Node.js
+
+Optimización de costos de inferencia y cold-start
+
+
+
+
+## 📱 Mobile & Frontend
+
+
+
 
 ### 🚖 Uber-style App (Rider & Driver)
 > Complete ride booking system with geolocation, real-time pricing, notifications, background services, and payment integration.
@@ -56,9 +118,17 @@ I am currently exploring new opportunities in software automation and applied ar
 
 ## 📈 GitHub Stats
 
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis-Leonidas-Fernandez&show_icons=true&theme=tokyonight&hide_title=true)
+<div align="center">
 
-> ⚠️ Note: Pull Requests and private contributions may not appear due to GitHub limitations.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis-Leonidas-Fernandez&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Leonidas-Fernandez&layout=compact&theme=tokyonight)
+
+</div>
+
+> ⚠️ Some private work (Node.js APIs, Flutter apps, and AI projects) may not appear in GitHub stats.
+
+
 
 ---
 
