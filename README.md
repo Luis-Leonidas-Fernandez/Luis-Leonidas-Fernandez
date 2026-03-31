@@ -1,74 +1,116 @@
 # 👋 Hi, I'm Luis Leonidas Fernández
 
-🧑‍💻 Full-Stack & Flutter Developer | AI Engineering & Automation  
-🇦🇷 Based in Argentina · 🚀 Building Mobility, Logistics, and AI-driven Platforms
+🧑‍💻 Software Engineer | Full-Stack & Flutter | AI Systems & Automation  
+🇦🇷 Argentina · 🌍 Open to international opportunities
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Full-Stack & Flutter Developer** with over **2.5 years of experience** building real-time mobile apps, backend services, and automation systems.  
-I also have **2+ years specializing in Node.js**, delivering production-ready software as a freelancer.
+I’m a Software Engineer focused on designing and delivering **scalable, real-time systems** and **AI-driven automation platforms**.
 
-I’ve built complete end-to-end ecosystems, including a full **Uber-style mobility platform** consisting of:
+I specialize in building **end-to-end architectures**, from mobile applications to backend services and deployment pipelines, with a strong emphasis on **performance, maintainability, and system design**.
 
-- 🚗 **User App (Flutter)** — real-time tracking, Mapbox routing, dynamic pricing, stopwatch, notifications  
-- 🚕 **Driver App (Flutter)** — background location, trip assignment, pricing  
-- 🖥️ **Admin Web Panel** — dashboards, JWT auth, trip management  
-- 🧩 **Backend (Node.js / MVC)** — sockets, microservices, driver assignment engine  
-- 🛠️ **DevOps** — DigitalOcean VPS, Nginx, SSL, MongoDB, and **CI/CD pipelines for Flutter**
-
-I'm also developing a **uShip-style logistics platform (Duelo Envios)** with:
-
-- **Frontend:** Flutter (MVVM)  
-- **Backend:** Node.js (MVC)  
-- **Goal:** freight delivery, bidding, real-time tracking, and payment integration  
+My work is centered around **mobility, logistics, and AI-powered data systems**, where I focus on turning complex workflows into **automated, production-ready solutions**.
 
 ---
 
-## 🤖 AI Engineering & Automation
+## 🧠 Engineering Mindset
 
-In recent months, I’ve expanded into **AI engineering**, creating a multi-service ecosystem focused on automation, marketing intelligence, and retrieval systems.
+- I design systems with **scalability and maintainability** in mind (MVC, MVVM, Hexagonal Architecture)  
+- I optimize for **real-time performance**, handling concurrency, sockets, and data flow  
+- I build with an **automation-first approach**, reducing manual processes through AI  
+- I think in terms of **systems, not features**, ensuring each component integrates into a larger architecture  
+- I focus on **bridging AI with real business use cases**, not just experimentation  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** JavaScript, TypeScript, Python, Dart  
+**Frontend:** Flutter, Web (JS/TS)  
+**Backend:** Node.js, Express, REST APIs, WebSockets  
+**Databases:** MongoDB, Qdrant  
+**DevOps:** Docker, Nginx, DigitalOcean, CI/CD pipelines  
+**AI/ML:** OpenAI APIs, RAG systems, embeddings, vector databases  
+
+---
+
+## 🚗 Mobility Platform (Uber-style)
+
+Designed and built a complete **real-time mobility ecosystem**, covering mobile apps, backend, and infrastructure:
+
+- 📱 **User App (Flutter)** — real-time tracking, Mapbox routing, dynamic pricing  
+- 🚕 **Driver App (Flutter)** — background location, trip assignment system  
+- 🖥️ **Admin Panel (Web)** — dashboards, authentication, trip management  
+- ⚙️ **Backend (Node.js)** — microservices, WebSockets, driver assignment engine  
+- 🚀 **DevOps** — VPS deployment, Nginx, SSL, CI/CD pipelines  
+
+### Key Engineering Highlights:
+- Designed **real-time architecture** using sockets for live trip updates  
+- Built **dynamic pricing system** based on demand conditions  
+- Structured backend for **scalability and modular growth**  
+- Reduced deployment friction through **automated CI/CD pipelines**  
+
+---
+
+## 🚚 Logistics Platform (Duelo Envios)
+
+Currently building a **uShip-style logistics system** focused on freight and delivery optimization:
+
+- **Frontend:** Flutter (MVVM architecture)  
+- **Backend:** Node.js (MVC)  
+
+### Core Features:
+- Freight request and **bidding system**  
+- Real-time tracking and delivery flow  
+- Scalable architecture for logistics operations  
+- Payment system integration (in progress)  
+
+---
+
+## 🤖 AI Systems & Automation
+
+I design and build **AI-driven systems** focused on retrieval, automation, and data activation.
 
 ### 🧠 vector-database-rag  
-**(In development — Hexagonal Architecture, Multi-Tenant)**  
-A scalable RAG platform providing:
+*(In development — Hexagonal Architecture, Multi-Tenant)*
 
-- File ingestion with **Docling**  
-- **OpenAI embeddings**  
-- Storage in **MongoDB + Qdrant**  
-- **IP & user-based rate limiting**  
-- Caching for improved retrieval  
-- Multi-file support  
-- Domain-driven, hexagonal design  
+A scalable **RAG platform** designed for structured business intelligence:
 
-**Workflow:**  
-A user uploads customer data → asks a question →  
-the LLM generates a **structured table** (e.g., “Which clients bought a Ford Ranger this year?”) →  
-the user creates a **marketing segment** from the result.
+- File ingestion with Docling  
+- OpenAI embeddings pipeline  
+- Storage using MongoDB + Qdrant  
+- Multi-tenant architecture  
+- Rate limiting (IP & user-based)  
+- Caching for optimized retrieval  
+- Multi-file querying  
 
-The segment is then sent to my second service:
-
-### 📣 ford-mailer  
-**(In development — MVC)**  
-A campaign engine that executes:
-
-- Mass emails via **Resend.io**  
-- **WhatsApp Business API** messaging  
-- Workflow automation for campaign initialization and tracking  
-
-Together, these projects form a complete AI-driven data pipeline:  
-**ingest → embed → query → segment → campaign → delivery**.
+### Engineering Focus:
+- Designing **RAG pipelines for structured queries**  
+- Building **multi-tenant AI systems** with performance constraints  
+- Transforming LLM outputs into **actionable business data**  
 
 ---
 
-## 📚 Learning & Growth
+### 📣 ford-mailer  
+*(In development — MVC)*
 
-I'm currently strengthening my academic foundation by studying **Data Science and Artificial Intelligence**, focusing on machine learning, statistics, and modern AI architectures.
+A campaign automation system that connects AI-generated segments with execution:
 
-I'm also improving my English from **A2 to B2**, aiming for future international opportunities in markets such as **Japan, Italy, and South Korea**.
+- Email campaigns via Resend  
+- WhatsApp Business API integration  
+- Workflow automation for campaign execution and tracking  
 
-My long-term vision is to combine **software engineering, AI, and automation** to build scalable, high-impact solutions for global businesses.
+---
+
+### 🔗 AI Ecosystem Vision
+
+I build connected systems where:
+
+**ingest → embed → query → segment → automate → deliver**
+
+This enables transforming raw data into **automated marketing and operational workflows**.
 
 ---
 
@@ -86,7 +128,17 @@ My long-term vision is to combine **software engineering, AI, and automation** t
 
 </div>
 
-> 📝 Some contributions remain private (AI automation systems, LLM deployments, backend microservices, and client apps).
+> 📝 Some contributions remain private (AI systems, automation platforms, and client projects).
+
+---
+
+## 🌍 Growth & Direction
+
+- Deepening knowledge in **Data Science and Artificial Intelligence**  
+- Improving English to access **global engineering opportunities**  
+- Expanding expertise in **distributed systems and AI architectures**  
+
+I’m particularly interested in working on **complex systems involving real-time data, distributed architectures, and AI-driven workflows**.
 
 ---
 
@@ -102,12 +154,11 @@ My long-term vision is to combine **software engineering, AI, and automation** t
 
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Focus
 
-- Complete and scale my Uber-style and Duelo Envios platforms, including secure payment systems and driver apps.  
-- Strengthen and expand my AI ecosystem (RAG pipelines, LLM deployment, automation tools).  
-- Continue studying Data Science and Artificial Intelligence to deepen my technical foundation.  
-- Improve my English from A2 to B2 level to access international developer and AI engineering opportunities.
+- Scaling mobility and logistics platforms to production-grade systems  
+- Expanding AI ecosystem (RAG pipelines, automation, LLM workflows)  
+- Building high-impact solutions combining **software engineering + AI + automation**  
 
 ---
 
